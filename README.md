@@ -1,4 +1,4 @@
-# 242project - Forecast COVID-19 vaccine demand around the world by predicting 7-day new cases trend
+# Forecast COVID-19 vaccine demand around the world by predicting 7-day new cases trend
 
 Problem Statement
 
