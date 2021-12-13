@@ -8,11 +8,14 @@ In a perfect scenario, the algorithm should be able to accurately determine coun
 
 ## Data
 
-Main data set is from kaggle that describes COVID-19 vaccination,mortality rates and other variables by country from Dec 27, 2020 to Sept 25, 2021. https://www.kaggle.com/sinakaraji/covid-vaccination-vs-death
+Main data set is from github: https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
 
-Also added additional information about each country described in the World Bank Open Data and IMF Data page to include GDP, demographics, and other descriptive statistics not included in the original dataset.
+Also added additional information about each country described in the World Bank Open Data and IMF Data page to include GDP, demographics, and other descriptive statistics not included in the original dataset:
+
 https://data.worldbank.org/
+
 https://www.imf.org/en/Data 
+
 https://www.kaggle.com/koryto/countryinfo
 
 ## Model training strategy: Cluster-then-Predict
